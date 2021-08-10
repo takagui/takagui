@@ -4,7 +4,7 @@
 
 <h2>Welcome to my page!</h2>
 <p>
-  I'm Taka, Web developer
+  I'm Taka, Web developer at CBYK and Student Tutor at Cubos Academy
 </p>
 
 <br/>
